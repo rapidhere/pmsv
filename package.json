@@ -1,0 +1,15 @@
+{
+  "name": "pmvs",
+  "version": "0.0.1",
+  "description": "project mangement server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony-async-await index.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rapidhere@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "mz": "^2.6.0"
+  }
+}
